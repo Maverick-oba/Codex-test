@@ -1,9 +1,8 @@
 # Codex-test — 作業記録用リポジトリ
 
-全プロジェクトの一覧と研究・運用正本への入口は、次の総合インデックスにまとめています。
+個別作業記録・テストの保管先です。
 
-**[研究・開発 GitHub 総合インデックス](https://github.com/Maverick-oba/ai-memory-engine/blob/main/README.md)**
+- **[研究・開発 Git総合インデックス：project-index](https://github.com/Maverick-oba/project-index/blob/main/README.md)**
+- [SBI PDFリネーム手順・整理実績](SBI_pdf_rename/README.md)
 
-このリポジトリは個別作業記録・テストの保管先です。全体の正本ではありません。
-
-2026-10-10 棚卸し時点では、内部ファイルの全件照合とPDFリネーム記録の実体確認は未実施です。既存成果物の移動・削除はしていません。
+2026-10-10、総合案内を独立したproject-indexへ移管しました。各プロジェクトの正本・再開地点はそちらから参照してください。
